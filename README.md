@@ -23,7 +23,7 @@
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://appmasters.io/static/kubernetes-logo-ea798a7abf761b1b7b965a9f16eee1a6.png" alt="kubernetes" width="50" height="50"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" alt="linux" width="50" height="50"/> </a> 
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-   <a href="https://www.postman.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" width="60" height="60"/> </a> 
+   <a href="https://www.postman.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" width="50" height="50"/> </a> 
 </p>
 
 
