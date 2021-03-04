@@ -1,9 +1,9 @@
 <h1 align="center">Hi :wave:, I'm Tania!</h1>
 <h3 align="center">I enjoy working on meaningful projects, that impact a person’s life and needs in a positive manner. </h3>
 
-:rocket: I’m currently working on a presentation website for a music artist that can be found [here](https://github.com/tehciolo/fanestelaru)
+:rocket: Currently working on a presentation website for a music artist that can be found [here](https://github.com/tehciolo/fanestelaru)
 
-👩‍💻 I’m currently solving algorithm challenges and learning **Typescript and VueJS**
+👩‍💻 Solving algorithm challenges and learning **Typescript and VueJS** at the moment
 
 :floppy_disk: All my projects are available at [https://github.com/tania-dm](https://github.com/tania-dm?tab=repositories)
 
