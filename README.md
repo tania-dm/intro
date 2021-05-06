@@ -3,7 +3,7 @@
 
 :rocket: Currently working on a presentation website for a music artist that can be found [here](https://github.com/tehciolo/fanestelaru)
 
-👩‍💻 Solving algorithm challenges and learning **Typescript and VueJS** at the moment
+👩‍💻 Solving algorithm challenges and learning **AngularJS** at the moment
 
 :floppy_disk: All my projects are available at [https://github.com/tania-dm](https://github.com/tania-dm?tab=repositories)
 
