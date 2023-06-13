@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Tania, NodeJS developer!</h1>
+<h1 align="center">Hi :wave:, I'm Tania, a NodeJS developer!</h1>
 <h3 align="center">I enjoy working on meaningful projects, that impact a person’s life and needs in a positive manner. </h3>
 
 :rocket: Currently, looking to join a new company 💼, so feel free to email me with interesting opportunities ✨
