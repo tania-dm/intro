@@ -3,7 +3,7 @@
 
 :rocket: Currently, looking to join a new company 💼, so feel free to email me with interesting opportunities ✨
 
-👩‍💻 Solving algorithm challenges and learning **Typescript** in the meantime.
+👩‍💻 Solving algorithm challenges.
 
 :floppy_disk: All my projects are available at [https://github.com/tania-dm](https://github.com/tania-dm?tab=repositories)
 
